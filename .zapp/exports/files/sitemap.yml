@@ -1,0 +1,5 @@
+filename: sitemap.xml
+engine: handlebars
+template: sitemap
+mapping:
+  urls: /sitemap
