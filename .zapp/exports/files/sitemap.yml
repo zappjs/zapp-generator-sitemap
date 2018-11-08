@@ -1,4 +1,4 @@
-filename: sitemap.xml
+filename: src/static/sitemap.xml
 engine: handlebars
 template: sitemap
 mapping:
